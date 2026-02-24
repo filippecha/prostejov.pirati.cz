@@ -24,9 +24,6 @@ main:
   - link: /lide/
     name: Lidé
     match: lide
-  - link: /cepp/
-    name: Pirátské centrum
-    match: cepp
   - link: /kontakt/
     name: Kontakty
     match: kontakt
